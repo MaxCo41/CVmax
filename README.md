@@ -1,2 +1,2 @@
 # CV
-https://maxco41.github.io/CVmax/
+[Mon CV](https://maxco41.github.io/CVmax/)
