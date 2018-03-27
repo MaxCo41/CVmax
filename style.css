@@ -1,0 +1,63 @@
+.page{
+    width: :780px;
+    margin: auto;
+    font-size: 16px;
+    font-family: Calibri, sans-serif;
+    padding: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.infophoto{
+    height: 250px;
+}
+.info{
+    float :left;
+}
+.photo {
+    float : right;
+
+}
+.section {
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.sec-gauche{
+    float: left;
+    font-size : 20px;
+}
+.sec-droite{
+    margin-left: 350px;
+}
+h2{
+  font-size: 28px;
+  color : blue;
+  text-transform: uppercase;
+  border-bottom : 3px solid blue;
+  margin-bottom: 0px;
+
+}
+#forma-gauche p{
+    margin-bottom: 30px;
+}
+#date-exp-gauche p{
+  margin-bottom: 33px;
+}
+#exp-droite p {
+  margin-bottom: 20px;
+}
+#langue-gauche li{
+  margin-bottom: 9px;
+}
+#info-gauche li{
+  margin-bottom: 9px;
+}
+#info-droite p{
+  margin-bottom: 2px;
+  margin-top: 17px;
+}
+.photo img {
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+  border: blue solid 2px;
+}
